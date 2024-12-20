@@ -1,0 +1,6 @@
+git+https://github.com/huggingface/diffusers.git@edea577
+fastapi
+uvicorn
+python-dotenv
+huggingface_hub
+torch
